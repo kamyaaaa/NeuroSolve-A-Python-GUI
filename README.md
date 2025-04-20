@@ -1,6 +1,6 @@
-# IntelliSolve – A Python GUI Toolkit for Classic AI Problem Solving
+# NeuroSolve – A Python GUI Toolkit for Classic AI Problem Solving
 
-IntelliSolve is an interactive Python-based GUI suite that demonstrates the implementation of core Artificial Intelligence and Machine Learning algorithms. It provides clean, intuitive interfaces to experiment with and visualize the logic of classic AI problems.
+NeuroSolve is an interactive Python-based GUI suite that demonstrates the implementation of core Artificial Intelligence and Machine Learning algorithms. It provides clean, intuitive interfaces to experiment with and visualize the logic of classic AI problems.
 
 ## 🔍 Included Modules
 
